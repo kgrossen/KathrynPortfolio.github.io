@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/treespicture.jpg)
+  background: url(images/background.jpg)
 		center center fixed no-repeat;
 		background-size: cover;
 	
@@ -68,12 +68,12 @@ html, body {
 }
 
 .center {
-    width: 800px;
+    width: 438px;
+	height:fit-content; 
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(256, 256, 256, .6); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px solid black;
 }
 
    
@@ -84,8 +84,8 @@ html, body {
 }
 
 h1 {
-	font-family: loos-normal, sans-serif;
-	font-weight: 200;
+	font-family: myriad-pro-condensed, sans-serif;
+	font-weight: 900;
 	font-style: normal;
 	font-size: 2em;
     margin: 0px auto 10px auto;
@@ -93,8 +93,8 @@ h1 {
 }
 
 h2 {
-	font-family: loos-normal, sans-serif;
-	font-weight: 200;
+	font-family: myriad-pro-condensed, sans-serif;
+	font-weight: 900;
 	font-style: normal;
 	font-size: 1.5em;
     line-height: 1.4;
@@ -104,8 +104,8 @@ h2 {
 }
 
 p {
-	font-family: loos-normal, sans-serif;
-	font-weight: 200;
+	font-family: myriad-pro-condensed, sans-serif;
+	font-weight: 900;
 	font-style: normal;		
 	font-size: 1.2em;
     line-height: 1.6;
@@ -113,8 +113,8 @@ p {
 }
 
 nav{
-	font-family: loos-normal, sans-serif;
-	font-weight: 200;
+	font-family: myriad-pro-condensed, sans-serif;
+	font-weight: 900;
 	font-style: normal;
 	font-size: 1.2em;
 	width: 400px;
